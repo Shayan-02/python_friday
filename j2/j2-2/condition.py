@@ -4,7 +4,8 @@
 #   test2
 # else:
 #   end
-
+# a = 1 ---> int, str, float
+# a == 1 --->
 a = int(input("enter a number: "))
 b = int(input("enter a number: "))
 if a == 1:

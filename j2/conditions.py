@@ -13,7 +13,7 @@ elif avg >= 12 and avg <= 16:
 elif avg >= 10 and avg <= 12:
     print("average is {} grade C".format(avg))
 elif avg >= 0 and avg <= 10:
-    print("average is {} grade A ==> fail".format(avg))
+    print("average is {} grade D ==> fail".format(avg))
 elif avg not in range (0, 20):
     print("wong")
 # else:

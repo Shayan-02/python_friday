@@ -15,3 +15,14 @@ while star >= 1:
 #         lst.append(i)
 #     i += 1
 # print(number, ":", lst, end=" ")
+    """
+    *
+    **
+    ***
+    ****
+    *****
+    ****
+    ***
+    **
+    *
+    """
